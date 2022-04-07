@@ -1,6 +1,6 @@
 baseURL = "https://reeduu.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de José Eduatdo Hdez"
+title = "Bitácora de Viaje de José Eduardo Hdez"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
