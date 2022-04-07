@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://reeduu.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura en el desarrollo de software</title>
       <link>https://reeduu.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://reeduu.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Considero que una parte esencial del desarrollo de software es la cooperación y la comunidad que se forma entre los desarrolladores, ejemplo de ello esta en el propio GitHub o en el tan popular Stackoverflow.
+Creo que al fin y al cabo, una gran ventaja que tiene el desarrolar código, es que este es reutilizable, y seguramente existirá alguien que ya haya creado una herramienta que te puede ser util para un proyecto, por lo que basta con importar librerias y hacer uso de todas las funciones que ya creó alguien más, esto puede faciltar mucho el trabajo, y siendo conscientes de que la comunidad te está ayudando, tambien es importante que seas reciproco y siempre intentes ayudar a alguien más.</description>
     </item>
     
     <item>
