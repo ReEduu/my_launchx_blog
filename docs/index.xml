@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de José Eduardo Hdez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://reeduu.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://reeduu.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://reeduu.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeduu.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mi experiencia empieza cuando en redes sociales ví el anuncio de que Microsoft estaba ofreciendo una beca para un curso full stack, yo ya lo ví tarde
+por lo que terminé entrando una semana despues de que empezó, esto a la larga me complicó un poco las cosas ya que se me acumularon los pendientes y no pude
+terminar todo, pero mientras pude aprender varias cosas.
+Yo no había usado Python, hasta este semestre en la escuela, por lo que el OnBoarding, me ayudó a familirizarme con el lenguaje, el cual considero, es bastante</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://reeduu.github.io/my_launchx_blog/posts/intro/</link>
